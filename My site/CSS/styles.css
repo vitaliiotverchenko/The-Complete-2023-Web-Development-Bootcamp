@@ -1,3 +1,13 @@
+div {
+    background-color: beige;
+}
+
 body {
-    background-color: gainsboro;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+h1 {
+    margin-top: 0px;
+    color: aqua;
 }
